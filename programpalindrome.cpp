@@ -12,7 +12,7 @@ public class palindromeTest {
     while (phrase!=s){
     p =isPalindrome(phrase); /*program palindrome*/
     }
-    out.printf("\nThe palindromes are :%s\n ",p);
+    out.printf("\nThe palindromes are :%s\n ",p); /* to print palindrome*/
     in.close();
     out.close();
     }
