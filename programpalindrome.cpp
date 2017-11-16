@@ -28,7 +28,7 @@ public class palindromeTest {
         right--;
     }
 
-    return true;
+    return true; /*program termination*/
 }
 
 
