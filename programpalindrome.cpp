@@ -10,7 +10,7 @@ public class palindromeTest {
     String p;
     String s="END";
     while (phrase!=s){
-    p =isPalindrome(phrase);
+    p =isPalindrome(phrase); /*program palindrome*/
     }
     out.printf("\nThe palindromes are :%s\n ",p);
     in.close();
