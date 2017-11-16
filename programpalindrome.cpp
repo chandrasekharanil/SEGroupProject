@@ -16,7 +16,7 @@ public class palindromeTest {
     in.close();
     out.close();
     }
- public static boolean isPalindrome(String phrase) {
+ public static boolean isPalindrome(String phrase) {    /*palindrome logic*/
     int left  = 0;
     int right = phrase.length() -1;
 
