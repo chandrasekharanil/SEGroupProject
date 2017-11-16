@@ -6,7 +6,7 @@ public class palindromeTest {
     Scanner in = new Scanner(new FileReader("words.txt"));
     PrintWriter out = new PrintWriter(new FileWriter("palindromes.txt"));
     String []phrase = new String[100];
-    String []palindromes = new String[50];
+    String []palindromes = new String[50];/*initialisation*/
     String p;
     String s="END";
     while (phrase!=s){
